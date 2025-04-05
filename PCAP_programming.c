@@ -122,7 +122,7 @@ void got_packet(uint8_t *args, const struct pcap_pkthdr *header, const uint8_t *
             }
         }
     }
-}
+
 
 /* Main function */
 int main() {
